@@ -10,3 +10,9 @@ print("LED off")
 GPIO.output(18,GPIO.LOW)
 
 Questions
+
+What is the purpose of breadboard?
+The purpose of a breadboard is to 
+Does the LED orientation matter (cathode & abode)?
+Why do you put a resistor in your circuit?
+How will a resistor with greater resistance affect the light?
