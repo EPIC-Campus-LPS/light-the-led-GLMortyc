@@ -12,7 +12,10 @@ GPIO.output(18,GPIO.LOW)
 Questions
 
 What is the purpose of breadboard?
-The purpose of a breadboard is to 
+The purpose of a breadboard is to be a safe place to test our circuits and prototypes before finalizing them
 Does the LED orientation matter (cathode & abode)?
+If the LED orientation is wrong, then the circuit can break with the LED.
 Why do you put a resistor in your circuit?
+So the LED wouldn't explode with too much current running through it.
 How will a resistor with greater resistance affect the light?
+A greater resistance resistor would decrease the light's brightness in theory.
